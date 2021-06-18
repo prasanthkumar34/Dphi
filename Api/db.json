@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "hello",
+      "text": "lkjip",
+      "date": "Sat Nov 21 2020",
+      "id": 1
+    },
+    {
+      "title": "First note",
+      "text": "good morning",
+      "date": "Fri Jun 18 2021",
+      "id": 2
+    }
+  ]
+}
